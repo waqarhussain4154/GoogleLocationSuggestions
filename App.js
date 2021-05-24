@@ -10,7 +10,7 @@ const GooglePlacesInput = () => {
         console.log(data, details);
       }}
       query={{
-        key: 'AIzaSyCh972dP0Wjvcw5iSjusFecbD8KkqKxJdA',
+        key: '',
         language: 'en',
       }}
     />
